@@ -245,7 +245,7 @@ O sistema:
 
 # 👨‍💻 Desenvolvedor
 
-Desenvolvido por **Junior Cardoso** 🚀
+Desenvolvido por **Ruthy Nathyelle** 🚀
 
 ---
 
