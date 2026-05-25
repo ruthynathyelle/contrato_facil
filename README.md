@@ -91,35 +91,27 @@ Cada contrato possui QR Code integrado.
 
 ## Tela Inicial
 
-```md
 ![Tela Inicial](assets/screenshots/tela-login.png)
-```
 
 ---
 
 ## Dashboard
 
-```md
 ![Dashboard](assets/screenshots/dashboard.png)
-```
 
 ---
 
 ## Geração de Contrato
 
-```md
 ![Gerador](assets/screenshots/gerador.png)
-```
 
 ---
 
 ## PDF Gerado
 
-```md
 ![PDF](assets/screenshots/pdf-gerado1.png)
-![PDF](assets/screenshots/pdf-gerado2.png)
-```
 
+![PDF](assets/screenshots/pdf-gerado2.png)
 ---
 
 # 🛠️ Tecnologias Utilizadas
@@ -243,7 +235,7 @@ O sistema:
 
 ---
 
-# 👨‍💻 Desenvolvedor
+# 👨‍💻 Desenvolvedora
 
 Desenvolvido por **Ruthy Nathyelle** 🚀
 
