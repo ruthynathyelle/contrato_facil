@@ -1,0 +1,6 @@
+streamlit
+reportlab
+bcrypt
+qrcode[pil]
+pillow
+pandas
