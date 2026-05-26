@@ -241,11 +241,6 @@ Desenvolvido por **Ruthy Nathyelle** 🚀
 
 ---
 
-# 📄 Licença
-
-Este projeto está sob licença MIT.
-
----
 
 # ⭐ Contribuição
 
