@@ -2,6 +2,7 @@ from datetime import datetime
 import uuid
 
 
+
 def gerar_id_contrato():
 
     codigo = str(
